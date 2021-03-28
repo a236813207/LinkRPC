@@ -9,10 +9,10 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>LinkRPC-Common</artifactId>
+    <artifactId>link-rpc-common</artifactId>
 
-    <name>LinkRPC-Common</name>
-    <url>https://github.com/a236813207/LinkRPC</url>
+    <name>link-rpc-common</name>
+    <url>https://github.com/a236813207/link-rpc</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -49,7 +49,7 @@
     </dependencies>
 
     <build>
-        <finalName>LinkRPC-Common</finalName>
+        <finalName>link-rpc-common</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>

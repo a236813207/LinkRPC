@@ -10,11 +10,11 @@
   </parent>
 
   <groupId>com.ken</groupId>
-  <artifactId>LinkRPC-Server</artifactId>
+  <artifactId>link-rpc-server</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>LinkRPC-Server</name>
-  <url>https://github.com/a236813207/LinkRPC</url>
+  <name>link-rpc-server</name>
+  <url>https://github.com/a236813207/link-rpc</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -25,14 +25,14 @@
   <dependencies>
     <dependency>
       <groupId>com.ken</groupId>
-      <artifactId>LinkRPC-Common</artifactId>
+      <artifactId>link-rpc-common</artifactId>
       <version>1.0-SNAPSHOT</version>
     </dependency>
 
   </dependencies>
 
   <build>
-    <finalName>LinkRPC-Server</finalName>
+    <finalName>link-rpc-server</finalName>
     <plugins>
       <plugin>
         <groupId>org.springframework.boot</groupId>

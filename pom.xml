@@ -8,12 +8,12 @@
     <artifactId>link-rpc</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>LinkRPC</name>
-    <url>https://github.com/a236813207/LinkRPC</url>
+    <name>link-rpc</name>
+    <url>https://github.com/a236813207/link-rpc</url>
     <modules>
-        <module>LinkRPC-Server</module>
-        <module>LinkRPC-Client</module>
-        <module>LinkRPC-common</module>
+        <module>link-rpc-server</module>
+        <module>link-rpc-client</module>
+        <module>link-rpc-common</module>
     </modules>
 
     <parent>
